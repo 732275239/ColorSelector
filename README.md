@@ -3,4 +3,4 @@
 
 
 ![](https://github.com/732275239/ColorSelector/blob/c26b3878907b74661595e2418fabc9f45e12df6b/app/libs/1.gif)
-![](https://github.com/732275239/ColorSelector/blob/c26b3878907b74661595e2418fabc9f45e12df6b/app/libs/1.gif)
+![](https://github.com/732275239/ColorSelector/blob/c26b3878907b74661595e2418fabc9f45e12df6b/app/libs/2.gif)
